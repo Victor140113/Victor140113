@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Victor
-- 👀 I’m interested in create programs on C
+- 👀 I’m interested in create programs on C and SQL
 - 🌱 I’m currently learning Software Engenhary
 - ⚡ Fun fact: ... Yes
 - I'm brasilian hehe.
